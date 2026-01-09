@@ -122,3 +122,125 @@ border-radius: 16px;
 background: rgba(255, 255, 255, 1);
 
 }
+.sec3{
+    display: flex;
+    flex-direction: column;
+}
+.para2{
+    color: rgba(14, 14, 14, 0.7);
+
+font-family: Fira Sans;
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.h200{
+    color: rgba(14, 14, 14, 1);
+
+font-family: Fira Sans;
+font-style: Bold;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+}
+.third-sec-2{
+    display: flex;
+    gap: 25px;
+}
+.third-sec1{
+    /* Frame 2087325495 */
+width: 410.67px;
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 34;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+}
+
+.third-sec2{
+    /* Frame 2087325499 */
+width: 410.67px;
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+background: rgba(198, 228, 214, 1);
+}
+.third-sec3{
+    /* Frame 2087325500 */
+width: 410.67px;
+height: 325px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 24px;
+box-sizing: border-box;
+border-radius: 16px;
+background: rgba(247, 235, 207, 1);
+}
+.bt3{
+    /* Frame 2 */
+width: 110px;
+height: 31px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 11px 20px 11px 20px;
+border-radius: 8px;
+background: rgba(84, 144, 245, 1);
+
+
+}
+.bt30{
+    /* Frame 2 */
+width: 110px;
+height: 31px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 11px 20px 11px 20px;
+border-radius: 8px;
+background: rgba(9, 161, 92, 1);
+
+
+}
+.bt300{
+    /* Frame 2 */
+width: 110px;
+height: 31px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 11px 20px 11px 20px;
+border-radius: 8px;
+background: rgba(255, 194, 57, 1);
+
+
+}
