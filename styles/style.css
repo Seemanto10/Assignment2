@@ -40,3 +40,52 @@ text-align: left;
 
 
 }
+.first-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: rgb(185, 212, 197);
+}
+.h60{
+    color: rgba(14, 14, 14, 0.5);
+
+font-family: Fira Sans;
+font-style: Medium;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.h20{
+    color: rgba(14, 14, 14, 1);
+
+font-family: Fira Sans;
+font-style: Bold;
+font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.bt1{
+    
+width:  270px;
+height:  26px;
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 17px 24px 17px 24px;
+border-radius: 8px;
+background: rgba(0, 106, 80, 1);
+/* font-style: black; */
+
+
+
+}

@@ -1,0 +1,42 @@
+header nav li{
+    list-style: none;
+    
+}
+.navdiv{
+    display: flex;
+    align-items: center; justify-content: space-between;
+}
+.navcompo1{
+    color: rgba(14, 14, 14, 1);
+
+font-family: Fira Sans;
+font-style: Bold;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+}
+#bt{
+    /* Frame 2 */
+width: 116px;
+height: 52px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 15px 30px 15px 30px;
+color: rgba(0, 106, 80, 1);
+
+font-family: Fira Sans;
+font-style: SemiBold;
+font-size: 12px;
+font-weight: 600;
+line-height: 15px;
+letter-spacing: 0%;
+text-align: left;
+
+
+}
