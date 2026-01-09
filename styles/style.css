@@ -89,3 +89,36 @@ background: rgba(0, 106, 80, 1);
 
 
 }
+.second-sec{
+    display: flex;
+    gap: 30px;
+    
+}
+.second-sec1{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+
+}
+.second-sec2{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+
+}
+.second-sec3{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+
+}
+.second-sec4{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+
+}
