@@ -292,3 +292,107 @@ letter-spacing: 0%;
 text-align: left;
 padding-bottom: 30px;
 }
+.fifth-sec-1-2{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 15px;
+}
+.fifth-sec-1-2-1{
+    box-sizing: content-box;
+    border-radius: 24px;
+    /* border: 1px solid black; */
+    image-rendering: auto;
+    /* background-image: url(../assignment1/B11A1--assignment-1/assets/satelite.png); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+.h54{
+    color: rgba(14, 14, 14, 0.8);
+
+font-family: Fira Sans;
+font-style: Bold;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+}
+.p54{
+    color: rgba(14, 14, 14, 0.7);
+
+font-family: Fira Sans;
+font-style: Regular;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.btn5{
+    /* Frame 2087325506 */
+width: 120px;
+height: 28px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 48;
+padding: 13px 26px 13px 26px;
+
+
+    border-radius: 8px;
+background: rgba(0, 106, 80, 1);
+}
+.sec5{
+    border-radius: 24px;
+background: rgba(255, 255, 255, 1);
+}
+.section-hover{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.section-hover-1{
+    text-align: center;
+    width: 25%;
+    
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+}
+.section-hover-2{
+    text-align: center;
+    width: 25%;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+
+}
+.section-hover-3{
+    text-align: center;
+    width: 25%;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+
+}
+.section-hover-4{
+    text-align: center;
+    width: 25%;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgba(255, 255, 255, 1);
+/* content: ""; */
+/* position: absolute; */
+/* background-color: brown; */
+/* transition: 0.3s; */
+
+}
